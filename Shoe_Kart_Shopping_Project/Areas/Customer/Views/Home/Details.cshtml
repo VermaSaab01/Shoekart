@@ -1,0 +1,135 @@
+﻿@model Shoe_Kart_Shopping_Model.ViewModels.ShoeVM
+
+<form method="post">
+    @*@Html.HiddenFor(m=>m.Product.Id)*@
+    <input type="hidden" asp-for="@Model.ShoppingCart.ProductId" />
+    <div class="container backgroundWhite">
+        <div class="card">
+            <div class="card-header bg-light text-light ml-0  container">
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <h1 class="text-primary">@Model.ShoppingCart.Product.SerialNo</h1>
+                        <p class="text-warning">@Model.ShoppingCart.Product.Brand.Name</p>
+                    </div>
+                    <div class="col-12 col-md-6 text-md-right pt-4">
+                        <span class="badge bg-success pt-2 p-3" style="height:30px;"><font size="4">@Model.ShoppingCart.Product.Brand.Name</font></span>
+                        <span class="badge bg-info pt-2 p-3" style="height:30px;"><font size="4">@Model.ShoppingCart.Product.Category.Name</font></span>
+                        @*<span class="badge bg-info pt-2" style="height:30px;">@Model.Product.ShoeSize.Name</span>*@
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="container rounded p-2">
+                    <div class="row">
+                        <div class="col-8 col-lg-8">
+
+
+                            @* oldShoeSize*@
+                            <div class="row pl-2">
+                                @*<h5 class="text-muted">SerialNumber :@Model.Product.SerialNo</h5>*@
+                                @*<h5 class="text-muted">Size :@Model.ShoppingCart.Product.ShoeSize.Name</h5>*@
+                                @Html.DropDownListFor(m => m.ShoppingCart.ShoeSizeSelectorId, Model.ShoeSizeList, "Select Size", new { @class = "" })
+                                <span asp-validation-for="ShoppingCart.ShoeSizeSelectorId"class="text-danger"></span>
+                            </div>
+
+
+
+                            <div class="row pl-2">
+                                <h5 class="text-muted pb-2">List Price: <strike>@Model.ShoppingCart.Product.ListPrice.ToString("C")</strike></h5>
+                            </div>
+                            <div class="row text-center pl-2">
+                                <div class="p-1 col-2 bg-secondary border-bottom">
+                                    <div>Quantity</div>
+                                </div>
+                                <div class="p-1 col-2 bg-secondary border-bottom">
+                                    <div>1-49</div>
+                                </div>
+                                <div class="p-1 col-2 bg-secondary border-bottom">
+                                    <div>50-99</div>
+                                </div>
+                                @*<div class="p-1 col-2 bg-secondary border-bottom">
+                                        <div>100+</div>
+                                    </div>*@
+                            </div>
+                            <div class="row text-center pl-2" style="color:maroon; font-weight:bold">
+                                <div class="p-1 col-2 bg-secondary">
+                                    <div>Price</div>
+                                </div>
+                                <div class="p-1 col-2 bg-secondary">
+                                    <div>@Model.ShoppingCart.Product.Price.ToString("C")</div>
+                                </div>
+                                <div class="p-1 col-2 bg-secondary">
+                                    <div>@Model.ShoppingCart.Product.Price50.ToString("C")</div>
+                                </div>
+                                @*<div class="p-1 col-2 bg-secondary">
+                                        <div>@Model.Product.Price100.ToString("C")</div>
+                                    </div>*@
+                            </div>
+
+                            @*@foreach (var item in Model.s)*@
+
+                            @*{
+                                    <div class="row">
+                                        <label asp-for="Size">Select Size</label>
+                                        <div class="radio row">
+                                            <label>
+                                                @Html.RadioButtonFor(m => m.Size, 1)
+                                                7
+                                            </label>
+                                            <label>
+                                                @Html.RadioButtonFor(m => m.Size, 2)
+                                                8
+                                            </label>
+                                            <label>
+                                                @Html.RadioButtonFor(m => m.Size, 3)
+                                                9
+                                            </label>
+                                            <label>
+                                                @Html.RadioButtonFor(m => m.Size, 4)
+                                                10
+                                            </label>
+                                            <label>
+                                                @Html.RadioButtonFor(m => m.Size, 5)
+                                                11
+                                            </label>
+
+                                        </div>
+                                    </div>
+
+                                }*@
+
+
+
+                            <div class="row pl-2">
+                                <p class="text-secondary">@Html.Raw(@Model.ShoppingCart.Product.Description)</p>
+                            </div>
+                            <br />
+                            <div class="row pl-2">
+                                <div class="col-2 text-primary"><h4>Count</h4></div>
+                                <div class="col-10"><input asp-for="@Model.ShoppingCart.Count" class="form-control" /></div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-3 offset-lg-1 text-center">
+                            <img src="@Model.ShoppingCart.Product.ImageURL" width="100%" class="rounded" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div class="row">
+                    <div class="col-12 col-md-6 pb-1">
+                        <a asp-action="Index" class="btn btn-success form-control  btn-square btn-lg" style="height:50px;">Back to List</a>
+                    </div>
+                    <div class="col-12 col-md-6 pb-1">
+
+                        <button type="submit" value="Add to Cart" class="btn btn-primary btn-square btn-lg form-control" style="height:50px;">Add to Cart</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
