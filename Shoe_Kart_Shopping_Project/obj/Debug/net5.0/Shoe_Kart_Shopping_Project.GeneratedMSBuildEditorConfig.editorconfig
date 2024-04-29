@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Shoe_Kart_Shopping_Project
+build_property.ProjectDir = D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\
