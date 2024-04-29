@@ -1,0 +1,11 @@
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\bin\Debug\net5.0\Shoe_Kart_Shopping.Model.deps.json
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\bin\Debug\net5.0\Shoe_Kart_Shopping.Model.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\bin\Debug\net5.0\ref\Shoe_Kart_Shopping.Model.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\bin\Debug\net5.0\Shoe_Kart_Shopping.Model.pdb
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Debug\net5.0\Shoe_Kart_Shopping.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Debug\net5.0\Shoe_Kart_Shopping.Model.AssemblyInfoInputs.cache
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Debug\net5.0\Shoe_Kart_Shopping.Model.AssemblyInfo.cs
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Debug\net5.0\Shoe_Kart_Shopping.Model.csproj.CoreCompileInputs.cache
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Debug\net5.0\Shoe_Kart_Shopping.Model.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Debug\net5.0\ref\Shoe_Kart_Shopping.Model.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Debug\net5.0\Shoe_Kart_Shopping.Model.pdb

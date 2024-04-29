@@ -1,0 +1,12 @@
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\bin\Release\net5.0\Shoe_Kart_Shopping_Model.deps.json
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\bin\Release\net5.0\Shoe_Kart_Shopping_Model.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\bin\Release\net5.0\Shoe_Kart_Shopping_Model.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\Shoe_Kart_Shopping_Model.csproj.AssemblyReference.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\Shoe_Kart_Shopping_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\Shoe_Kart_Shopping_Model.AssemblyInfoInputs.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\Shoe_Kart_Shopping_Model.AssemblyInfo.cs
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\Shoe_Kart_Shopping_Model.csproj.CoreCompileInputs.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\Shoe_Kart_Shopping_Model.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\refint\Shoe_Kart_Shopping_Model.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\Shoe_Kart_Shopping_Model.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Model\obj\Release\net5.0\ref\Shoe_Kart_Shopping_Model.dll
