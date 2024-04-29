@@ -1,0 +1,144 @@
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+D:\Visual Data\Documents\Visual studio Practise\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+D:\Personal Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+E:\AllProjectData\Project All\project2022Asp.net\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\refint\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\refint\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+C:\Users\CS-COMMON\Desktop\naveenprj\jai\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.deps.json
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.json
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.runtimeconfig.dev.json
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.dll
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\bin\Debug\net5.0\Shoe_Kart_Shopping_Model.pdb
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.AssemblyReference.cache
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfoInputs.cache
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.AssemblyInfo.cs
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CoreCompileInputs.cache
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.csproj.CopyComplete
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.dll
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\refint\Shoe_Kart_Shopping_DataAccess.dll
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.pdb
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\Shoe_Kart_Shopping_DataAccess.genruntimeconfig.cache
+D:\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_Project\Shoe_Kart_Shopping_DataBase\obj\Debug\net5.0\ref\Shoe_Kart_Shopping_DataAccess.dll
